@@ -1,2 +1,2 @@
 message.txt
-"Hello !"
+"Hello from Feature Branch2!"
